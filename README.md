@@ -12,10 +12,7 @@ This project demonstrates a **movie review sentiment analysis** application buil
 ## How to Run the App
 To run the app locally, follow these steps:
 
-<h3>1. Clone the Repository</h3>
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/movie-review-sentiment-analysis.git
 cd movie-review-sentiment-analysis
-
-
-
