@@ -2,5 +2,5 @@ streamlit
 scikit-learn
 pandas
 numpy
-matplotlib   # Or plotly, altair based on your choice
-nltk         # Or spacy if you prefer
+matplotlib   
+nltk    
