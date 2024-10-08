@@ -1,5 +1,4 @@
 
-```markdown
 # Movie Review Sentiment Analysis using Streamlit
 
 ## Overview
