@@ -1,3 +1,5 @@
+
+```markdown
 # Movie Review Sentiment Analysis using Streamlit
 
 ## Overview
@@ -16,3 +18,34 @@ To run the app locally, follow these steps:
 ```bash
 git clone https://github.com/yourusername/movie-review-sentiment-analysis.git
 cd movie-review-sentiment-analysis
+```
+
+### 2. Install Required Libraries
+Make sure you have Python installed. Then, install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Streamlit App
+Run the following command to launch the app:
+```bash
+streamlit run app.py
+```
+
+
+## Model
+The sentiment analysis model used in this project is Logistic Regression. It is trained on a dataset of movie reviews and is capable of predicting **positive** or **negative** sentiments based on the input text.
+
+## Technologies Used
+- **Streamlit**: For building the interactive web application.
+- **Python**: Core programming language.
+- **Machine Learning**: Algorithm [insert algorithm used] for sentiment classification.
+- **Libraries**: 
+  - `scikit-learn` (or `transformers`, etc., depending on the model)
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+
+
+## Contributing
+Feel free to fork this project, submit issues, and make pull requests. Contributions are welcome!
