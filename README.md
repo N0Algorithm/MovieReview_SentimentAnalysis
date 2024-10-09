@@ -15,7 +15,7 @@ To run the app locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movie-review-sentiment-analysis.git
+git clone https://github.com/N0Algorithm/MovieReview_SentimentAnalysis.git
 cd movie-review-sentiment-analysis
 ```
 
